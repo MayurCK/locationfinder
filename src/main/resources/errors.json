@@ -1,0 +1,22 @@
+[
+  {
+    "errorCode": 1000,
+    "errorMessage": "service is down due to some internal issue."
+  },
+  {
+    "errorCode": 1001,
+    "errorMessage": "FourSquare search place service failure."
+  },
+  {
+    "errorCode": 1002,
+    "errorMessage": "Google search place service failure."
+  },
+  {
+    "errorCode": 1003,
+    "errorMessage": "FourSquare search place filter failure."
+  },
+  {
+    "errorCode": 1004,
+    "errorMessage": "Google search place filter failure."
+  }
+]

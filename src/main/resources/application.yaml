@@ -1,0 +1,17 @@
+#server:
+#  port: 8090
+
+server:
+  error:
+    whitelabel:
+      enabled: false
+
+foursquare:
+  uri: "https://api.foursquare.com/v2/venues/search"
+  clientId: "1HRRSJUTWSLT5LHAE2D2QE05DD1B4EJB4CFMYUDWREX0TA20"
+  clientSecret: "O2CSNHOYVVOUY10531545SKP0MNAZU1WXY5YLMAEVYDMUVVX"
+  version: "20190425"
+
+google:
+  uri: "https://maps.googleapis.com/maps/api/geocode/json"
+  key: "AIzaSyBPMSm9t2OmjzrZGOlRKiR3B10TXY8uGas"
